@@ -5,3 +5,9 @@ obj/
 *.exe
 *.dll
 *.pdb
+WindowsFormsApp1/bin/
+WindowsFormsApp1/obj/
+*.xml
+*.nupkg
+*.jpg
+*.png
