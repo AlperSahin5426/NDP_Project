@@ -1,0 +1,6 @@
+C:\Users\secer\OneDrive\Masaüstü\NDP_Project\WindowsFormsApp1\obj\Debug\NDP_Project.csproj.AssemblyReference.cache
+C:\Users\secer\OneDrive\Masaüstü\NDP_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\secer\OneDrive\Masaüstü\NDP_Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\secer\OneDrive\Masaüstü\NDP_Project_2\WindowsFormsApp1\obj\Debug\NDP_Project.csproj.AssemblyReference.cache
+C:\Users\secer\OneDrive\Masaüstü\NDP_Project_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\secer\OneDrive\Masaüstü\NDP_Project_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
